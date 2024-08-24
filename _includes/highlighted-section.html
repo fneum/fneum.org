@@ -1,0 +1,10 @@
+<div class="highlight-box">
+    {% if include.image %}
+      <div class="highlight-image-wrapper">
+        <img src="{{ include.image | relative_url }}" alt="{{ include.image_alt }}" class="highlight-image">
+      </div>
+    {% endif %}
+    <div class="highlight-content">
+      {{ include.content | markdownify }}
+    </div>
+  </div>
