@@ -1,104 +1,111 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
 body {
-  font-family: 'Overpass', sans-serif;
+    font-family: 'Overpass', sans-serif;
 }
 
 a {
-  color: #36719e;
+    color: #36719e;
 }
 
-.site-title, .site-nav {
-  color: #36719e;
+.site-title,
+.site-nav {
+    color: #36719e;
 }
 
 .site-footer {
-  .footer-col-wrapper {
-    display: flex;
-    justify-content: space-between;
-  }
+    .footer-col-wrapper {
+        display: flex;
+        justify-content: space-between;
+    }
 
-  .footer-col {
-    flex: 1;
-    margin-bottom: 0;
-  }
+    .footer-col {
+        flex: 1;
+        margin-bottom: 0;
+    }
 
-  .social-media-list {
-    margin-bottom: 0;
-  }
+    .social-media-list {
+        margin-bottom: 0;
+    }
 }
 
 .site-footer h2.footer-heading {
     display: none;
-  }
+}
 
-  .site-header, .site-footer {
+.site-header,
+.site-footer {
     border-top: none;
     border-bottom: none;
-  }
-  
-  .post-content {
-    h2, h3, h4, h5, h6 {
-      border-bottom: none;
+}
+
+.post-content {
+
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        border-bottom: none;
     }
-  }
-  
-  hr {
+}
+
+hr {
     display: none;
-  }
+}
 
-  .site-header {
+.site-header {
     padding-top: 20px;
-  }
+}
 
-  a {
+a {
     &:hover {
-      color: #36719e; // Your accent color
-      text-decoration: none; // Remove underline if you prefer
-    }
-  }
-
-  .site-nav {
-    .page-link {
-      &:hover {
         color: #36719e; // Your accent color
-      }
+        text-decoration: none; // Remove underline if you prefer
     }
-  }
+}
 
-  .highlight-box {
+.site-nav {
+    .page-link {
+        &:hover {
+            color: #36719e; // Your accent color
+        }
+    }
+}
+
+.highlight-box {
     background-color: #f0f0f0;
     padding: 20px;
     border-radius: 5px;
     margin-bottom: 20px;
     overflow: hidden;
-  
+
     .highlight-image-wrapper {
-      float: left;
-      margin-right: 20px;
-      margin-bottom: 10px;
-      width: 100px;  // Adjust as needed
+        float: left;
+        margin-right: 20px;
+        margin-bottom: 10px;
+        width: 100px; // Adjust as needed
     }
-  
+
     .highlight-image {
-      max-width: 100%;
-      height: auto;
+        max-width: 100%;
+        height: auto;
     }
-  
+
     .highlight-content {
-      p:first-of-type strong:first-of-type {
-        color: #36719e;
-      }
+        p:first-of-type strong:first-of-type {
+            color: #36719e;
+        }
     }
-  
+
     a {
-      color: #36719e;
-      text-decoration: none;
-      &:hover {
-        text-decoration: underline;
-      }
+        color: #36719e;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
     }
-  }
+}
