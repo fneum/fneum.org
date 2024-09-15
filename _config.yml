@@ -1,0 +1,18 @@
+title: Fabian Neumann
+author: Fabian Neumann
+email: f.neumann@tu-berlin.de
+description: >-
+  Except otherwise stated, all material licensed under CC BY 4.0.
+theme: minima
+
+header_pages:
+  - research.md
+  - teaching.md
+  - talks.md
+  - open-source.md
+  # - posts.md
+
+markdown: kramdown
+
+github_username: fneum
+linkedin_username: fabian-neumann-renewables
