@@ -34,7 +34,10 @@ co-maintain open-source software:
 
 I appreciate clear data visualization that makes complex information easier to understand.
 
-Explore further details in my [CV](assets/cv.pdf) or on my [LinkedIn profile]().
+Explore further details in my
+[CV](https://tubcloud.tu-berlin.de/s/aPBgRrngixpy2Sa/download/fabian_neumann_cv.pdf)
+or on my [LinkedIn
+profile](https://www.linkedin.com/in/fabian-neumann-renewables/).
 
 <!-- ### Posts
 
