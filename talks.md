@@ -6,6 +6,8 @@ permalink: /talks/
 
 ### 2024
 
+2024, September 25. [What does integrated EU open energy system planning tell us about ﬂexibility needs?](https://tubcloud.tu-berlin.de/s/ify3qAf3FNmQ2Az/download/20240924-esc-brussels.pdf). Held at the Energy Storage Coalition's [Worskhop on the Methodology for Flexibility Needs Assessments](https://energystoragecoalition.eu/worskhop-on-methodology-for-flexibility-needs-assessments/) in Brussels
+
 2024, July 2. [The potential role of a hydrogen network in Europe](https://tubcloud.tu-berlin.de/s/pbLGEfiSHWeojGk/download/20240702-icct.pdf). Held at the meetup of the [International Council on Clean Transportation (ICCT)](https://theicct.org/) in Berlin.
 
 2024, June 26. [Capacity Expansion Planning for Renewable Power Systems with PyPSA using HiGHS](https://tubcloud.tu-berlin.de/s/nZ6F54RcnoWYLzJ/download/highs-workshop-presentation.slides.html). Held at the [HiGHS](https://highs.dev/) Workshop in Edinburgh.
