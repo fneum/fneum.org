@@ -6,6 +6,8 @@ permalink: /talks/
 
 ### 2024
 
+2024, October 8. [PyPSA-Eur Modellanwendungen: Strategien für Wasserstoffwirtschaft & Carbon Management](https://tubcloud.tu-berlin.de/s/STLAXe7aiG3GcfG/download/20241008-resilient-nrw.pdf) (in German). Held online at the first industry workshop of the [RESILIENT project](https://resilient-project.github.io/).
+
 2024, September 25. [What does integrated EU open energy system planning tell us about ﬂexibility needs?](https://tubcloud.tu-berlin.de/s/ify3qAf3FNmQ2Az/download/20240924-esc-brussels.pdf). Held at the Energy Storage Coalition's [Worskhop on the Methodology for Flexibility Needs Assessments](https://energystoragecoalition.eu/worskhop-on-methodology-for-flexibility-needs-assessments/) in Brussels
 
 2024, July 2. [The potential role of a hydrogen network in Europe](https://tubcloud.tu-berlin.de/s/pbLGEfiSHWeojGk/download/20240702-icct.pdf). Held at the meetup of the [International Council on Clean Transportation (ICCT)](https://theicct.org/) in Berlin.
