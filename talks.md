@@ -6,6 +6,10 @@ permalink: /talks/
 
 ### 2024
 
+2024, October 16. [Building Resilient Energy Infrastructure: Hydrogen, Import, and Carbon Management Strategies](https://tubcloud.tu-berlin.de/s/kDKgmiHxGGt4FaD/download/20241016-cetp-insight-harvesting.pdf). Held online at the Insight Harvesting Workshop of the CETPartnership projects.
+
+2024, October 15. [On European hydrogen, import, and carbon management strategies](https://tubcloud.tu-berlin.de/s/7WNEW6EdrQcgZkK/download/20241015-chalmers-journal-club.pdf). Held at the lunch talk series of the [Department of Physical Resource Theory](https://www.chalmers.se/en/departments/see/research/frt/) at Chalmers University in Gothenburg.
+
 2024, October 8. [PyPSA-Eur Modellanwendungen: Strategien für Wasserstoffwirtschaft & Carbon Management](https://tubcloud.tu-berlin.de/s/STLAXe7aiG3GcfG/download/20241008-resilient-nrw.pdf) (in German). Held online at the first industry workshop of the [RESILIENT project](https://resilient-project.github.io/).
 
 2024, September 25. [What does integrated EU open energy system planning tell us about ﬂexibility needs?](https://tubcloud.tu-berlin.de/s/ify3qAf3FNmQ2Az/download/20240924-esc-brussels.pdf). Held at the Energy Storage Coalition's [Worskhop on the Methodology for Flexibility Needs Assessments](https://energystoragecoalition.eu/worskhop-on-methodology-for-flexibility-needs-assessments/) in Brussels
