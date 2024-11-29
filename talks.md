@@ -6,6 +6,8 @@ permalink: /talks/
 
 ### 2024
 
+2024, November 29. [Energy System Modelling with PyPSA - Examples for China](https://tubcloud.tu-berlin.de/s/fxwAB3FyMJgmRBE/download/20241129-efc-beijing.pdf). Held at a seminar at Energy Foundation China's office in Beijing.
+
 2024, October 16. [Building Resilient Energy Infrastructure: Hydrogen, Import, and Carbon Management Strategies](https://tubcloud.tu-berlin.de/s/kDKgmiHxGGt4FaD/download/20241016-cetp-insight-harvesting.pdf). Held online at the Insight Harvesting Workshop of the CETPartnership projects.
 
 2024, October 15. [On European hydrogen, import, and carbon management strategies](https://tubcloud.tu-berlin.de/s/7WNEW6EdrQcgZkK/download/20241015-chalmers-journal-club.pdf). Held at the lunch talk series of the [Department of Physical Resource Theory](https://www.chalmers.se/en/departments/see/research/frt/) at Chalmers University in Gothenburg.
@@ -27,7 +29,7 @@ permalink: /talks/
 2024, April 23. [RESILIENT: Resilient Energy System Infrastructure Layouts
 for Industry, E-Fuels and Network Transitions](https://tubcloud.tu-berlin.de/s/yjaqGecwqmJxRxd/download/20240423-rewards-kickoff.pdf). Held online as part of the kick-off meeting of the [REWARDS](https://www.iee.fraunhofer.de/de/projekte/suche/2024/rewards.html) project.
 
-2024, April 10. [Energy System Modelling with PyPSA – Examples for China](https://tubcloud.tu-berlin.de/s/di3fNJYB3YsKJ9K/download/20240410-pypsa-china.pdf). Held online as part of a capacity building workshop to Chinese researchers organised by [Dr. Chen Chris Gong](https://www.pik-potsdam.de/members/chengong).
+2024, April 10. [Energy System Modelling with PyPSA - Examples for China](https://tubcloud.tu-berlin.de/s/di3fNJYB3YsKJ9K/download/20240410-pypsa-china.pdf). Held online as part of a capacity building workshop to Chinese researchers organised by [Dr. Chen Chris Gong](https://www.pik-potsdam.de/members/chengong).
 
 2024, April 8. [Open Energy Infrastructure Planning for Net-Zero Carbon
 Emissions: Recent Research with PyPSA-Eur](https://tubcloud.tu-berlin.de/s/FwtsMJtBSKokJRL/download/20240408-iea-wind.pdf). Held at the [IEA Wind Topical Expert Meeting #113](https://iea-wind.org/2024/02/07/tem113-net-zero-electricity-system-studies/) on *Net Zero Electricity System Studies* in Dublin.
