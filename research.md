@@ -35,10 +35,10 @@ net-zero.
 
 ![Import Strategies](/assets/img/paper-imports.png)
 
-- *Neumann, F., Hampp, J., & Brown, T. (2024). Energy Imports and Infrastructure
-  in a Carbon-Neutral European Energy System. [arXiv:2404.03927](http://arxiv.org/abs/2404.03927)*
+- Neumann, F., Hampp, J., & Brown, T. (2024). *Energy Imports and Infrastructure
+  in a Carbon-Neutral European Energy System.* [arXiv:2404.03927](http://arxiv.org/abs/2404.03927)
 
-### Carbon Management Strategies
+### Carbon Management Strategies & Biomass
 
 A CO<sub>2</sub> pipeline network could enhance European carbon management by
 connecting point-source capture to geological sequestration and utilization
@@ -48,14 +48,16 @@ industry decarbonization approaches, and biomass usage.
 
 ![Carbon Management Strategies](../assets/img/paper-co2-network.png)
 
-- *Hofmann, F., Tries, C., Neumann, F., Zeyen, E., & Brown, T. (2024). H<sub>2</sub> and
-  CO<sub>2</sub> Network Strategies for the European Energy System.
-  [arXiv:2402.19042](http://arxiv.org/abs/2402.19042)*
+- Hofmann, F., Tries, C., Neumann, F., Zeyen, E., & Brown, T. (2024). *H<sub>2</sub> and
+  CO<sub>2</sub> Network Strategies for the European Energy System.*
+  [arXiv:2402.19042](http://arxiv.org/abs/2402.19042)
 
-- *Millinger, M., Hedenus, F., Reichenberg, L., Zeyen, E., Neumann, F., &
-  Berndes, G. (2023). Diversity of biomass usage pathways to achieve emissions
-  targets in the European energy system.
-  [Researchsquare preprint](https://doi.org/10.21203/rs.3.rs-3097648/v1)*
+![Biomass Strategies](../assets/img/paper-biomass.png)
+
+- Millinger, M., Hedenus, F., Zeyen, E., Neumann, F., Reichenberg, L., &
+  Berndes, G. (2025). *Diversity of biomass usage pathways to achieve emissions
+  targets in the European energy system.* **Nature Energy**
+  [doi:10.1038/s41560-024-01693-6](https://doi.org/10.1038/s41560-024-01693-6)
 
 
 ### Modelling-to-Generate Alternatives (MGA)
@@ -70,14 +72,14 @@ public acceptance is limited.
 
 ![MGA](/assets/img/paper-mga.png)
 
-- *Neumann, F., & Brown, T. (2021). The near-optimal feasible space of a
-  renewable power system model. Electric Power Systems Research, 190, 106690.
-  [doi:10.1016/j.epsr.2020.106690](https://doi.org/10.1016/j.epsr.2020.106690)*
+- Neumann, F., & Brown, T. (2021). *The near-optimal feasible space of a
+  renewable power system model.* **Electric Power Systems Research**, 190, 106690.
+  [doi:10.1016/j.epsr.2020.106690](https://doi.org/10.1016/j.epsr.2020.106690)
 
-- *Neumann, F., & Brown, T. (2023). Broad ranges of investment configurations
-  for renewable power systems, robust to cost uncertainty and near-optimality.
-  iScience, 26(5), 106702.
-  [doi:10.1016/j.isci.2023.106702](https://doi.org/10.1016/j.isci.2023.106702)*
+- Neumann, F., & Brown, T. (2023). *Broad ranges of investment configurations
+  for renewable power systems, robust to cost uncertainty and near-optimality.*
+  **iScience**, 26(5), 106702.
+  [doi:10.1016/j.isci.2023.106702](https://doi.org/10.1016/j.isci.2023.106702)
 
 ### Prices in 100% Renewable Electricity Markets
 
@@ -91,9 +93,9 @@ across 70 weather years.
 
 ![Price Formation](/assets/img/paper-price-formation.png)
 
-- *Brown, T., Neumann, F., & Riepin, I. (2024). Price formation without fuel
-  costs: The interaction of elastic demand with storage bidding.
-  [arXiv:2407.21409](http://arxiv.org/abs/2407.21409)*
+- Brown, T., Neumann, F., & Riepin, I. (2024). *Price formation without fuel
+  costs: The interaction of elastic demand with storage bidding.*
+  [arXiv:2407.21409](http://arxiv.org/abs/2407.21409)
 
 ### Multi-Decadal Weather Variability
 
@@ -107,6 +109,7 @@ renewable systems.
 
 ![Weather Years](/assets/img/paper-weather-years.png)
 
-- *Gøtske, E. K., Andresen, G. B., Neumann, F., & Victoria, M. (2024). Designing
+- Gøtske, E. K., Andresen, G. B., Neumann, F., & Victoria, M. (2024). Designing
   a sector-coupled European energy system robust to 60 years of historical
-  weather data. [arXiv:2404.12178](http://arxiv.org/abs/2404.12178)*
+  weather data. **Nature Communications**, 15, 10680.
+  [doi:10.1038/s41467-024-54853-3](https://doi.org/10.1038/s41467-024-54853-3)
