@@ -19,9 +19,9 @@ infrastructure design.
 
 ![Hydrogen Strategies](/assets/img/paper-h2-network.png)
 
-- *Neumann, F., Zeyen, E., Victoria, M., & Brown, T. (2023). The potential role
-  of a hydrogen network in Europe. Joule, S2542435123002660.
-  [doi:10.1016/j.joule.2023.06.016](https://doi.org/10.1016/j.joule.2023.06.016)*
+- Neumann, F., Zeyen, E., Victoria, M., & Brown, T. (2023). The potential role
+  of a hydrogen network in Europe. **Joule**, S2542435123002660.
+  [doi:10.1016/j.joule.2023.06.016](https://doi.org/10.1016/j.joule.2023.06.016)
 
 ### Import Strategies
 
