@@ -48,9 +48,9 @@ industry decarbonization approaches, and biomass usage.
 
 ![Carbon Management Strategies](../assets/img/paper-co2-network.png)
 
-- Hofmann, F., Tries, C., Neumann, F., Zeyen, E., & Brown, T. (2024). *H<sub>2</sub> and
-  CO<sub>2</sub> Network Strategies for the European Energy System.*
-  [arXiv:2402.19042](http://arxiv.org/abs/2402.19042)
+- Hofmann, F., Tries, C., Neumann, F., Zeyen, E., & Brown, T. (2025). *H<sub>2</sub> and
+  CO<sub>2</sub> Network Strategies for the European Energy System.* **Nature Energy**
+  [doi:10.1038/s41560-025-01752-6](https://doi.org/10.1038/s41560-025-01752-6)
 
 ![Biomass Strategies](../assets/img/paper-biomass.png)
 
