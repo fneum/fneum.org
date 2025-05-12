@@ -93,9 +93,10 @@ across 70 weather years.
 
 ![Price Formation](/assets/img/paper-price-formation.png)
 
-- Brown, T., Neumann, F., & Riepin, I. (2024). *Price formation without fuel
-  costs: The interaction of elastic demand with storage bidding.*
-  [arXiv:2407.21409](http://arxiv.org/abs/2407.21409)
+- Brown, T., Neumann, F., & Riepin, I. (2025). *Price formation without fuel
+  costs: The interaction of demand elasticity with storage bidding.* **Energy
+  Economics**, 147, 108483.
+  [doi:10.1016/j.eneco.2025.108483](https://doi.org/10.1016/j.eneco.2025.108483)
 
 ### Multi-Decadal Weather Variability
 
