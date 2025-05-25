@@ -4,6 +4,14 @@ title: Talks
 permalink: /talks/
 ---
 
+### 2025
+
+2025, May 20. [Energy infrastructure planning for Europe’s hydrogen, import and carbon management strategies](https://tubcloud.tu-berlin.de/s/iZ74dXQa5fpgoWH/download/20250520-ewi-cologne.pdf). Held at a research colloquium at [EWI](https://www.ewi.uni-koeln.de/de/) in Cologne.
+
+2025, May 14. [Resilient Energy Infrastructure: Carbon Management, Weather Years and Price Formation with 100% VRE](https://tubcloud.tu-berlin.de/s/9wSdJWDaPbTLp6y/download/20250514-iea-wind-oslo.pdf). Held during the [IEA Wind Task 25](https://iea-wind.org/task25/) meeting in Oslo.
+
+2025, March 6. [Wasserstoff-, Import- und Carbon-Management-Strategien für Resiliente Energieinfrastrukturen](https://tubcloud.tu-berlin.de/s/FJJKkdio8PXnPp4/download/20250306-stromnetz-dialog.pdf) (in German). Held online at the [Stromnetz Dialog](https://www.forschungsnetzwerke-energie.de/events/de/stromnetz-dialog).
+
 ### 2024
 
 2024, November 29. [Energy System Modelling with PyPSA - Examples for China](https://tubcloud.tu-berlin.de/s/fxwAB3FyMJgmRBE/download/20241129-efc-beijing.pdf). Held at a seminar at Energy Foundation China's office in Beijing.
