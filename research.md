@@ -35,8 +35,9 @@ net-zero.
 
 ![Import Strategies](/assets/img/paper-imports.png)
 
-- Neumann, F., Hampp, J., & Brown, T. (2024). *Energy Imports and Infrastructure
-  in a Carbon-Neutral European Energy System.* [arXiv:2404.03927](http://arxiv.org/abs/2404.03927)
+- Neumann, F., Hampp, J., & Brown, T. (2025). *Green energy and steel imports
+  reduce Europe's net-zero infrastructure needs.* **Nature Communications**
+  [doi:10.1038/s41467-025-60652-1](http://doi.org/10.1038/s41467-025-60652-1)
 
 ### Carbon Management Strategies & Biomass
 

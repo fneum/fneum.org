@@ -6,6 +6,12 @@ permalink: /talks/
 
 ### 2025
 
+2025, June 12. [Integrating electrolysers in Europe’s net-zero economy power system](https://tubcloud.tu-berlin.de/s/YAqrq2BxTGsHYas/download/20250612-eusew.pdf). Held at the European Commission's [European Sustainable Energy Week](https://sustainable-energy-week.ec.europa.eu/index_en) in Brussels.
+
+2025, June 5. [H2 and CO2 network strategies for the European energy system](https://tubcloud.tu-berlin.de/s/px5eNrzebLXrjA2/download/20250605-planeterr.pdf). Held online for colleagues at [MINES Paris PSL](https://www.minesparis.psl.eu/en/home/).
+
+2025, June 5. [H2 and CO2 network strategies for the European energy system](https://tubcloud.tu-berlin.de/s/JMyCjg8gRF9z5zW/download/20250605-agora.pdf). Held at the offices of [Agora Energiewende](https://www.agora-energiewende.de) in Berlin.
+
 2025, May 20. [Energy infrastructure planning for Europe’s hydrogen, import and carbon management strategies](https://tubcloud.tu-berlin.de/s/iZ74dXQa5fpgoWH/download/20250520-ewi-cologne.pdf). Held at a research colloquium at [EWI](https://www.ewi.uni-koeln.de/de/) in Cologne.
 
 2025, May 14. [Resilient Energy Infrastructure: Carbon Management, Weather Years and Price Formation with 100% VRE](https://tubcloud.tu-berlin.de/s/9wSdJWDaPbTLp6y/download/20250514-iea-wind-oslo.pdf). Held during the [IEA Wind Task 25](https://iea-wind.org/task25/) meeting in Oslo.
