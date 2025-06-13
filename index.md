@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am a postdoctoral researcher at the [Department of Digital Transformation in
+I am a scientist at the [Department of Digital Transformation in
 Energy Systems](https://www.tu.berlin/en/ensys) at the [Technische Universität
 Berlin (TUB)](https://www.tu.berlin/en), focussing on resilient energy
 infrastructure planning for systems with high shares of variable renewable
