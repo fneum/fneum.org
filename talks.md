@@ -6,6 +6,8 @@ permalink: /talks/
 
 ### 2025
 
+2025, June 18. [Transportation of clean molecules in Europe's net-zero conomy](https://tubcloud.tu-berlin.de/s/Z4GdFXsAq29qpoJ/download/20250618-fsr-clean-molecules.pdf). Held online as part of the *Clean Molecules* programme from the [Florence School of Regulation](https://fsr.eui.eu/).
+
 2025, June 12. [Integrating electrolysers in Europe’s net-zero economy power system](https://tubcloud.tu-berlin.de/s/YAqrq2BxTGsHYas/download/20250612-eusew.pdf). Held at the European Commission's [European Sustainable Energy Week](https://sustainable-energy-week.ec.europa.eu/index_en) in Brussels. A video recording is available on [YouTube](https://youtu.be/-Om8-20szBo?si=GmDMIUNE5FdvnAez).
 
 2025, June 5. [H2 and CO2 network strategies for the European energy system](https://tubcloud.tu-berlin.de/s/px5eNrzebLXrjA2/download/20250605-planeterr.pdf). Held online for colleagues at [MINES Paris PSL](https://www.minesparis.psl.eu/en/home/).
