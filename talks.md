@@ -6,19 +6,27 @@ permalink: /talks/
 
 ### 2025
 
-2025, June 18. [Transportation of clean molecules in Europe's net-zero conomy](https://tubcloud.tu-berlin.de/s/Z4GdFXsAq29qpoJ/download/20250618-fsr-clean-molecules.pdf). Held online as part of the *Clean Molecules* programme from the [Florence School of Regulation](https://fsr.eui.eu/).
+2025, October 17. [The Minimal Methanol Economy as a Gap-Filler for High Electrification Scenarios](https://tubcloud.tu-berlin.de/s/qFYEzk2f8bz9d3f/download/20251017-neumann-ecemp.pdf). Held at the [ECEMP 2025](https://www.ecemf.eu/ecemp/ecemp-2025/) in Brussels.
 
-2025, June 12. [Integrating electrolysers in Europe’s net-zero economy power system](https://tubcloud.tu-berlin.de/s/YAqrq2BxTGsHYas/download/20250612-eusew.pdf). Held at the European Commission's [European Sustainable Energy Week](https://sustainable-energy-week.ec.europa.eu/index_en) in Brussels. A video recording is available on [YouTube](https://youtu.be/-Om8-20szBo?si=GmDMIUNE5FdvnAez).
+2025, October 9. [Price formation without fuel costs: The interaction of demand elasticity with storage bidding](https://tubcloud.tu-berlin.de/s/6ri3Sm9kQj2xtK6/download/20251009-wind-integration-workshop.pdf). Held at the [24th International Wind & Solar Integration Workshop](https://windintegrationworkshop.org/) in Berlin.
 
-2025, June 5. [H2 and CO2 network strategies for the European energy system](https://tubcloud.tu-berlin.de/s/px5eNrzebLXrjA2/download/20250605-planeterr.pdf). Held online for colleagues at [MINES Paris PSL](https://www.minesparis.psl.eu/en/home/).
+2025, September 20-28. [Pathways to Zero](https://fneum.github.io/sommerakademie-oxford/intro.html). Summer school of the Studienstiftung des deutschen Volkes in Oxford.
 
-2025, June 5. [H2 and CO2 network strategies for the European energy system](https://tubcloud.tu-berlin.de/s/JMyCjg8gRF9z5zW/download/20250605-agora.pdf). Held at the offices of [Agora Energiewende](https://www.agora-energiewende.de) in Berlin.
+2025, June 25. [Energy Infrastructure Planning for Europe’s Hydrogen, Import and Carbon Management Strategies](https://tubcloud.tu-berlin.de/s/635QfBGJ5PzJ5TZ/download/20250625-gurobi-eis.pdf). Held at the [Gurobi Energy Innovation Summit](https://www.gurobi.com/events/energy-innovation-summit-2025/) in Berlin.
 
-2025, May 20. [Energy infrastructure planning for Europe’s hydrogen, import and carbon management strategies](https://tubcloud.tu-berlin.de/s/iZ74dXQa5fpgoWH/download/20250520-ewi-cologne.pdf). Held at a research colloquium at [EWI](https://www.ewi.uni-koeln.de/de/) in Cologne.
+2025, June 18. [Transportation of clean molecules in Europe's net-zero conomy](https://tubcloud.tu-berlin.de/s/fj8tCij9yZxwFsE/download/20250618-fsr-clean-molecules.pdf). Held online as part of the *Clean Molecules* programme from the [Florence School of Regulation](https://fsr.eui.eu/).
 
-2025, May 14. [Resilient Energy Infrastructure: Carbon Management, Weather Years and Price Formation with 100% VRE](https://tubcloud.tu-berlin.de/s/9wSdJWDaPbTLp6y/download/20250514-iea-wind-oslo.pdf). Held during the [IEA Wind Task 25](https://iea-wind.org/task25/) meeting in Oslo.
+2025, June 12. [Integrating electrolysers in Europe’s net-zero economy power system](https://tubcloud.tu-berlin.de/s/dRTNm7AfExMB2R5/download/20250612-eusew.pdf). Held at the European Commission's [European Sustainable Energy Week](https://sustainable-energy-week.ec.europa.eu/index_en) in Brussels. A video recording is available on [YouTube](https://youtu.be/-Om8-20szBo?si=GmDMIUNE5FdvnAez).
 
-2025, March 6. [Wasserstoff-, Import- und Carbon-Management-Strategien für Resiliente Energieinfrastrukturen](https://tubcloud.tu-berlin.de/s/FJJKkdio8PXnPp4/download/20250306-stromnetz-dialog.pdf) (in German). Held online at the [Stromnetz Dialog](https://www.forschungsnetzwerke-energie.de/events/de/stromnetz-dialog).
+2025, June 5. [H2 and CO2 network strategies for the European energy system](https://tubcloud.tu-berlin.de/s/s8qRbQPHmBto2Jc/download/20250605-planeterr.pdf). Held online for colleagues at [MINES Paris PSL](https://www.minesparis.psl.eu/en/home/).
+
+2025, June 5. [H2 and CO2 network strategies for the European energy system](https://tubcloud.tu-berlin.de/s/mFCa53yr6nggbdi/download/20250605-agora.pdf). Held at the offices of [Agora Energiewende](https://www.agora-energiewende.de) in Berlin.
+
+2025, May 20. [Energy infrastructure planning for Europe’s hydrogen, import and carbon management strategies](https://tubcloud.tu-berlin.de/s/yiZpr9tKQ6PFA2m). Held at a research colloquium at [EWI](https://www.ewi.uni-koeln.de/de/) in Cologne.
+
+2025, May 14. [Resilient Energy Infrastructure: Carbon Management, Weather Years and Price Formation with 100% VRE](https://tubcloud.tu-berlin.de/s/cnLmgGnSD87dALL/download/20250514-iea-wind-oslo.pdf). Held during the [IEA Wind Task 25](https://iea-wind.org/task25/) meeting in Oslo.
+
+2025, March 6. [Wasserstoff-, Import- und Carbon-Management-Strategien für Resiliente Energieinfrastrukturen](https://tubcloud.tu-berlin.de/s/FxzwCx4xXPJPFSe/20250306-stromnetz-dialog.pdf) (in German). Held online at the [Stromnetz Dialog](https://www.forschungsnetzwerke-energie.de/events/de/stromnetz-dialog).
 
 ### 2024
 
