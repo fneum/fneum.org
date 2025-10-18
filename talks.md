@@ -8,6 +8,8 @@ permalink: /talks/
 
 2025, October 17. [The Minimal Methanol Economy as a Gap-Filler for High Electrification Scenarios](https://tubcloud.tu-berlin.de/s/qFYEzk2f8bz9d3f/download/20251017-neumann-ecemp.pdf). Held at the [ECEMP 2025](https://www.ecemf.eu/ecemp/ecemp-2025/) in Brussels.
 
+2025, October 17. [Is there no alternative? It is time energy planning models looked beyond cost-optimal solutions](https://www.flombardi.org/lectures/). Held together with [Francesco Lombardi](https://www.flombardi.org/) at the [ECEMP 2025](https://www.ecemf.eu/ecemp/ecemp-2025/) in Brussels.
+
 2025, October 9. [Price formation without fuel costs: The interaction of demand elasticity with storage bidding](https://tubcloud.tu-berlin.de/s/6ri3Sm9kQj2xtK6/download/20251009-wind-integration-workshop.pdf). Held at the [24th International Wind & Solar Integration Workshop](https://windintegrationworkshop.org/) in Berlin.
 
 2025, September 20-28. [Pathways to Zero](https://fneum.github.io/sommerakademie-oxford/intro.html). Summer school of the Studienstiftung des deutschen Volkes in Oxford.
