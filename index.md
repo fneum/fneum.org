@@ -4,8 +4,10 @@ layout: page
 
 I am a scientist at the [Department of Digital Transformation in
 Energy Systems](https://www.tu.berlin/en/ensys) at the [Technische Universität
-Berlin (TUB)](https://www.tu.berlin/en), focussing on resilient energy
-infrastructure planning for systems with high shares of variable renewable
+Berlin (TUB)](https://www.tu.berlin/en) and co-managing director of the non-profit
+[PyPSA Labs](https://pypsalabs.org). My work focuses on software development for
+open-source energy system modelling and investigating  resilient energy
+infrastructure pathways for systems with high shares of variable renewable
 electricity. My research supports strategic decision-making to accelerate the
 transition to a climate-neutral energy system by mid-century, devising
 strategies for European hydrogen infrastructure, green energy imports, and
